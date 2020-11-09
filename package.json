@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "1.1.0"
+    "react-scripts": "^4.0.0"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
